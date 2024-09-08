@@ -1,10 +1,10 @@
 # Fdb version 3
-["dvipdf"] 1725802537 "out/CalcProblems.dvi" "out/CalcProblems.pdf" "out/CalcProblems" 1725802538
-  "out/CalcProblems.dvi" 1725802537 3172 701105bd13a3608d7a57e13724c661f0 "latex"
+["dvipdf"] 1725812199 "out/CalcProblems.dvi" "out/CalcProblems.pdf" "out/CalcProblems" 1725812200
+  "out/CalcProblems.dvi" 1725812199 7836 0419edd8ee1820cedbe4b7bed60efa70 "latex"
   (generated)
   "out/CalcProblems.pdf"
-["latex"] 1725802536 "/Users/haraguchitakuya/Desktop/Calculation_Problems/CalcProblems.tex" "out/CalcProblems.dvi" "CalcProblems" 1725802538
-  "/Users/haraguchitakuya/Desktop/Calculation_Problems/CalcProblems.tex" 1725801978 2015 32495e7c5d7f57779c6e01c6c63d359d ""
+["latex"] 1725812198 "/Users/haraguchitakuya/Desktop/Calculation_Problems/CalcProblems.tex" "out/CalcProblems.dvi" "CalcProblems" 1725812200
+  "/Users/haraguchitakuya/Desktop/Calculation_Problems/CalcProblems.tex" 1725805618 2017 1586146d9053cec08fa158e7c178f350 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -19,6 +19,8 @@
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/ascmac/ascgrp.tfm" 1520635638 448 9a1f3a95c3a7e2681aa6eefcf410b7ac ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx5.tfm" 1136768653 1332 f817c21a1ba54560425663374f1b651a ""
+  "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmbx7.tfm" 1136768653 1336 3125ccb448c1a09074e3aa4a9832f130 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1136768653 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "/usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1136768653 1292 21c1c5bfeaebccffdb478fd231a0997d ""
@@ -92,13 +94,11 @@
   "/usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf" 1583102494 39451 60d7debd9ef8ece44cbe965493576c2d ""
   "/usr/local/texlive/2020/texmf-var/web2c/eptex/platex.fmt" 1608362818 2464185 d2714808ea75e9141d3588a9a44096ad ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "CalcProblems.tex" 1725801978 2015 32495e7c5d7f57779c6e01c6c63d359d ""
-  "out/CalcProblems.aux" 1725802537 386 9685e508fac9302c8d1390a92d1cf55c "latex"
-  "out/CalcProblems.toc" 1725802537 252 b64e540187e53e759affec651b902c54 "latex"
-  "preamble.tex" 1725802536 13773 06e631fc0cf5e3e2ca05894357ff3da7 ""
-  "sec1.tex" 1725802416 199 b5970635c3166eee59ff6982322b1dea ""
+  "CalcProblems.tex" 1725805618 2017 1586146d9053cec08fa158e7c178f350 ""
+  "out/CalcProblems.aux" 1725812199 420 b038a6277c57f30631de7000a159e393 "latex"
+  "preamble.tex" 1725802910 13824 02decc429d6728ec7ee6711f61156a7b ""
+  "sec1.tex" 1725812198 4261 e305bf5316d752e03cdf03c59e6b0a64 ""
   (generated)
   "out/CalcProblems.dvi"
-  "out/CalcProblems.aux"
   "out/CalcProblems.log"
-  "out/CalcProblems.toc"
+  "out/CalcProblems.aux"
